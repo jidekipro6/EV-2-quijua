@@ -13,6 +13,7 @@ public class Curso {
 	private Integer id;
 
 	private String name;
+	private String credito;
 
 	
 
@@ -32,6 +33,13 @@ public class Curso {
 		this.name = name;
 	}
 
+	public String getCredito() {
+		return name;
+	}
+
+	public void setCredito(String name) {
+		this.name = name;
+	}
 	
 
 	
