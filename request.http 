@@ -1,3 +1,9 @@
+###
+https://jidekipro6-urban-couscous-q49xpj4p97w295pj-8030.preview.app.github.dev/
+###
+https://ev-9mho.onrender.com/
+###
+
 @subdominio = EV-2-quijua
 # 1: Mostrar su código IDAT y su nombre en el siguiente formato: CÓDIGO - NOMBRE
 GET https://{{subdominio}}.onrender.com/
