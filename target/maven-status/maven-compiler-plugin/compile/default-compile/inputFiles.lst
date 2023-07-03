@@ -1,7 +1,7 @@
 /workspaces/EV-2-quijua/src/main/java/com/ec/quijua/quijua/ApiController.java
 /workspaces/EV-2-quijua/src/main/java/com/ec/quijua/quijua/Controller.java
-/workspaces/EV-2-quijua/src/main/java/com/ec/quijua/quijua/CursoRepository.java
 /workspaces/EV-2-quijua/src/main/java/com/ec/quijua/quijua/QuijuaApplication.java
 /workspaces/EV-2-quijua/src/main/java/com/ec/quijua/quijua/ControllerNombre.java
 /workspaces/EV-2-quijua/src/main/java/com/ec/quijua/quijua/Curso.java
 /workspaces/EV-2-quijua/src/main/java/com/ec/quijua/quijua/ControllerCodigo.java
+/workspaces/EV-2-quijua/src/main/java/com/ec/quijua/quijua/CursosRepository.java
